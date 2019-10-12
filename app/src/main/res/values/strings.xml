@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">proyectoAPHM</string>
+    <string name="Titulo1">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="Titulo2">HERNÁNDEZ MARTÍNEZ ARAUNA PAOLA</string>
+    <string name="Titulo3">7S11</string>
+    <string name="Descripcion">EVOLUCIÓN DEL INTERNET</string>
+    <string name="MENU">M E N Ú</string>
+    <string name="intro">I N T R O D U C C I Ó N</string>
+    <string name="defintro">Internet ha revolucionado el mundo. Hoy cumple 40 años y ha alcanzado más de 2,4 billones de usuarios.¿Eres de los que aún recuerda el sonido de un router al conectarse? TE invitamos a que descubras la breve historia de la revolución digital </string>
+    <string name="B1">Introducción</string>
+    <string name="B2">1969-1974</string>
+    <string name="B3">1976-1982</string>
+    <string name="B4">1991-1998</string>
+    <string name="B5">2001-2015</string>
+
+    //Primera Parte
+    <string name="año1">1969</string>
+    <string name="d1">Se realiza la PRIMERA CONEXIÓN entre los ordenadores de Standford y UCLA y nace ARPANET</string>
+    <string name="año2">1971</string>
+    <string name="d2">Ray Tomlinson envia el primer EMAIL y el 1° Virus Creeper</string>
+    <string name="año3">1974</string>
+    <string name="d3">TCP- Vitcon creal el TCP- Protocolo de Control de Transmisión</string>
+
+    //Segunda Parte
+    <string name="año4">1976</string>
+    <string name="d4">Se desarrolla los primeros cables coaxiales LAN ETHERNET</string>
+    <string name="año5">1978</string>
+    <string name="d5">Se envia el primer mensaje no solicitado SPAM</string>
+    <string name="año6">1982</string>
+    <string name="d6">Establece el Protocolo de Control de Transmisión -TCP- en ARPANET</string>
+
+    //Tercera Parte
+
+    <string name="año7">1991</string>
+    <string name="d7">Primera Página Web, objetivo explicar la World Wide Web</string>
+    <string name="año8">1994</string>
+    <string name="d8">Se funda YAHOO!</string>
+    <string name="año9">1998</string>
+    <string name="d9">Nace GOOGLE y la gente encuentra información en línea</string>
+
+    //Cuarta Parte
+    <string name="año10">2001</string>
+    <string name="d10">Se lanza la mayor enciclopedia completa WIKIPEDIA</string>
+    <string name="año11">2005-2007</string>
+    <string name="d11">Nace YOUTUBE, MYSPACE, FACEBOOK</string>
+    <string name="año12">2011-2015</string>
+    <string name="d12">Se crea GMAIL GOOGLE , nace TWITTER. Usuarios de internet en el mundo suman más de 2,895 millones de sitios alojados en la red.</string>
+
+    // botones
+    <string name="b">1976...</string>
+    <string name="bb">1994...</string>
+    <string name="bbb">2005...</string>
+    <string name="bbbb">1991...</string>
+    <string name="back">B A C K</string>
+    <string name="next">N E X T</string>
+    <string name="acede">Elaborado por Hernandez Martinez Martínez Arauna Paola 06-Octubre-2019 </string>
+    <string name="info">Versión 3.0 Objetivo: Da a conocer Como fue evolucionando el INTERNET</string>
+
+    <string name="ac">A C E R C A - D E ...</string>
+    <string name="impo">I M P O R T A N C I A</string>
+    <string name="impoR">Esta herramienta es muy importante por que nos facilita información de todo tipo, es como una biblioteca gigantesca en la que podemos encontrar cualquier información que deseemos. La facilidad de podernos informar de cualquier cosa en el momento exacto de la búsqueda es impresionante. En las páginas Web podemos encontrar información concreta, y nos facilitan la fecha en la que se ha publicado el escrito.</string>
+    <string name="DESVEN">VENTAJAS Y DESVENTAJAS</string>
+    <string name="DESVENTEX">VENTAJAS: °Hace la comunicación mucho más sencilla. °Es posible conocer e interactuar con muchas personas. °La búsqueda de información se vuelve mucho más sencilla. °Muchos puntos de vista diferentes sobre alguna noticia. °Comprar facilmente a otras tiendas.</string>
+    <string name="DEStex">DESVENTAJAS: °Genera una gran dependencia o vicio del internet, descuidándote de muchas cosas personales o laborable. ° El principal puente de la piratería es el Internet. °Hace que nazcan otro males tales como el spam, el malware, la proliferación de los virus etc. ° DEpendencia de energía eléctrica. Si hay un corte de energía en la casa, adiós Internet. </string>
+</resources>
